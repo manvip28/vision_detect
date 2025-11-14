@@ -1,4 +1,4 @@
-# img_det
+# VisionDetect
 
 A Python-based image object detection web app using a YOLO model.
 
